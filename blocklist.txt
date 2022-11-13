@@ -1,0 +1,190 @@
+# Mastodon Federation Block List
+101010.pl                                                       # fediblock:          fascism, homomisia, transmisia
+10minutepleroma.com                                             # fediblock:          unspecified
+alive.bar                                                       # fediblock:          unspecified
+animalliberation.social                                         # fediblock:          unspecified
+anime.website                                                   # fediblock:          unspecified
+app.kenhbit.com                                                 # fediblock:          unspecified
+bae.st                                                          # chaos social:       discrimination, racism, "free speech zone"
+banana.dog                                                      # fediblock:          unspecified
+baraag.net                                                      # chaos social:       lolicon
+based.directory                                                 # fediblock:          unspecified
+bea.st                                                          # fediblock:          fashism
+beefyboys.club                                                  # chaos social:       discrimination, racism, "free speech zone"
+beefyboys.win                                                   # fediblock:          national socialism
+bestgore.fun                                                    # fediblock:          gore, making fun of executions
+beta.birdsite.live                                              # chaos social:       twitter crossposter
+birb.elfenban.de                                                # chaos social:       twitter crossposter
+bird.evilcyberhacker.net                                        # chaos social:       twitter crossposter
+bird.froth.zone                                                 # chaos social:       twitter crossposter
+bird.nzbr.de                                                    # chaos social:       twitter crossposter
+birdbots.leptonics.com                                          # chaos social:       twitter crossposter
+birdsite.link                                                   # chaos social:       twitter crossposter
+birdsite.monster                                                # chaos social:       twitter crossposter
+birdsite.slashdev.space                                         # chaos social:       twitter crossposter
+birdsite.thorlaksson.com                                        # chaos social:       twitter crossposter
+birdsite.wilde.cloud                                            # chaos social:       twitter crossposter
+birdsitelive.treffler.cloud                                     # chaos social:       twitter crossposter
+bitcoinhackers.org                                              # fediblock:          unspecified
+bittube.video                                                   # fediblock:          unspecified
+bridge.birb.space                                               # chaos social:       twitter crossposter
+brighteon.social                                                # chaos social:       "free speech zone"
+buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life   # fediblock:          unspecified
+cachapa.moe                                                     # fediblock:          national socialism
+cawfee.club                                                     # chaos social:       discrimination, racism, "free speech zone"
+chudbuds.lol                                                    # chaos social:       discrimination, racism, "free speech zone"
+club.darknight-coffee.eu                                        # chaos social:       "free speech zone"
+club.darknight-coffee.org                                       # fediblock:          unspecified
+clubcyberia.co                                                  # fediblock:          unspecified
+comfyboy.club                                                   # chaos social:       discrimination, racism
+counter.fedi.live                                               # fediblock:          unspecified
+cum.salon                                                       # fediblock:          homomisia, racism, suicide-proposal
+cunny.finance                                                   # fediblock:          unspecified
+cybercrusade.xyz                                                # fediblock:          ableism
+daishouri.moe                                                   # chaos social:       fascism, openly advertises with swastika
+desupost.soy                                                    # fediblock:          unspecified
+detroitriotcity.com                                             # chaos social:       discrimination, racism, "free speech zone"
+devtube.dev-wiki.de                                             # fediblock:          unspecified
+eatthebugs.social                                               # fediblock:          antisemitism
+etiketi.de                                                      # fediblock:          unspecified
+eveningzoo.club                                                 # fediblock:          homomisia
+f.haeder.net                                                    # chaos social:       discrimination
+fedi.anti-degeneracy.club                                       # fediblock:          unspecified
+fedi.murky.club                                                 # fediblock:          unspecified
+fiume.club                                                      # fediblock:          unspecified
+fluf.club                                                       # fediblock:          unspecified
+freak.university                                                # fediblock:          unspecified
+freeatlantis.com                                                # chaos social:       conspiracy theory instance
+freecumextremist.com                                            # fediblock:          unspecified
+freefedifollowers.ga                                            # chaos social:       follower spam
+freespeech.firedragonstudios.com                                # fediblock:          unspecified
+freespeech.group                                                # fediblock:          unspecified
+freespeechextremist.com                                         # chaos social:       discrimination, racism, "free speech zone"
+freethinkers.lgbt                                               # fediblock:          unspecified
+frennet.link                                                    # chaos social:       discrimination, racism, "free speech zone"
+gab.ai                                                          # chaos social:       discrimination, racism, "free speech zone"
+gab.com                                                         # chaos social:       discrimination, racism, "free speech zone"
+gameliberty.club                                                # chaos social:       "free speech zone"
+gearlandia.haus                                                 # fediblock:          unspecified
+gegenstimme.tv                                                  # chaos social:       "free speech zone"
+gitmo.life                                                      # chaos social:       "free speech zone"
+gleasonator.com                                                 # fediblock:          unspecified
+glindr.org                                                      # chaos social:       discrimination
+glowers.club                                                    # chaos social:       discrimination, racism, "free speech zone"
+godspeed.moe                                                    # fediblock:          unspecified
+gorf.pub                                                        # fediblock:          unspecified
+helladoge.com                                                   # fediblock:          unspecified
+hitchhiker.social                                               # fediblock:          unspecified
+honkwerx.tech                                                   # chaos social:       racism
+iddqd.social                                                    # chaos social:       discrimination, racism, "free speech zone"
+itmslaves.com                                                   # chaos social:       "free speech zone", noagenda affiliated
+jaeger.website                                                  # chaos social:       discrimination, racism, "free speech zone"
+justicewarrior.social                                           # fediblock:          unspecified
+kcl.academy                                                     # fediblock:          (covid/ukraine) conspiracy theories
+kenfm.quadplay.tv                                               # chaos social:       conspiracy videos
+kisslolis.moe                                                   # fediblock:          unspecified
+kiwifarms.cc                                                    # chaos social:       discrimination
+lain.com                                                        # fediblock:          unspecified
+lain.sh                                                         # fediblock:          unspecified
+leafposter.club                                                 # fediblock:          unspecified
+liberdon.com                                                    # fediblock:          ancap, libertarianism
+libre.tube                                                      # chaos social:       promotion of violence and murder, multiple other violations of our rules
+libre.video                                                     # fediblock:          unspecified
+ligma.pro                                                       # fediblock:          unspecified
+loli.pizza                                                      # fediblock:          unspecified
+lolicon.rocks                                                   # chaos social:       lolicon
+lush.moe                                                        # fediblock:          unspecified
+masochi.st                                                      # fediblock:          unspecified
+masthead.social                                                 # fediblock:          unspecified
+mastodon.network                                                # chaos social:       imperaonation linking to porn
+mastodon.popps.org                                              # chaos social:       homophobia
+memehub.eu                                                      # fediblock:          unspecified
+meta-tube.de                                                    # chaos social:       conspiracy, covid19 denier videos https://fediblock.org/blocklist/#meta-tube.de
+milker.cafe                                                     # fediblock:          lolicon
+mstdn.foxfam.club                                               # chaos social:       right wing twitter mirror
+mstdn.jp                                                        # fediblock:          unspecified
+nicecrew.digital                                                # chaos social:       discrimination, racism, "free speech zone"
+noagenda.social                                                 # fediblock:          unspecified
+noagendasocial.com                                              # chaos social:       "free speech zone", harassment
+ohai.su                                                         # chaos social:       offline
+pawoo.net                                                       # chaos social:       untagged nfsw content, unwanted follow bots, lolicon\*\*\*
+paypig.org                                                      # chaos social:       racism
+pedo.school                                                     # fediblock:          unspecified
+pieville.net                                                    # chaos social:       racism, antisemitism
+pl.anon-kenkai.com                                              # fediblock:          unspecified
+pl.info.natehiggers.online                                      # chaos social:       racism
+pl.natehiggers.online                                           # chaos social:       racism
+pl.slash.cl                                                     # fediblock:          unspecified
+pl.smugloli.net                                                 # fediblock:          unspecified
+pl.thj.no                                                       # fediblock:          unspecified
+pl.tkammer.de                                                   # chaos social:       transphobia
+pl.wysteriary.art                                               # fediblock:          unspecified
+play.xmr.101010.pl                                              # chaos social:       cryptomining
+pleroma.eientei.org                                             # fediblock:          unspecified
+pleroma.kitsunemimi.club                                        # chaos social:       discrimination
+pleroma.narrativerry.xyz                                        # chaos social:       discrimination, racism, "free speech zone"
+pleroma.nobodyhasthe.biz                                        # chaos social:       doxxing and discrimination
+pleroma.rareome.ga                                              # chaos social:       doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)
+pleroma.skyshanty.xyz                                           # fediblock:          unspecified
+pleroma.soykaf.com                                              # fediblock:          unspecified
+pleroma.us                                                      # fediblock:          unspecified
+pmth.us                                                         # fediblock:          transmisia
+poa.st                                                          # chaos social:       discrimination
+poster.place                                                    # chaos social:       discrimination, racism, "free speech zone"
+posting.lolicon.rocks                                           # fediblock:          unspecified
+pt.pube.tk                                                      # fediblock:          unspecified
+quanta.wiki                                                     # fediblock:          unspecified
+rakket.app                                                      # fediblock:          unspecified
+rapemeat.solutions                                              # fediblock:          rape, pedophilia, lolicon
+raygungothic.xyz                                                # fediblock:          unspecified
+rdrama.cc                                                       # fediblock:          racism
+rojogato.com                                                    # fediblock:          racism, transmisia, ableism
+rusoc.xyz                                                       # fediblock:          racism
+ryona.agency                                                    # fediblock:          racism, anti semitism, misogyny, transmisia,
+sayit.world                                                     # fediblock:          unspecified
+seal.cafe                                                       # fediblock:          transmisia
+shitposter.club                                                 # chaos social:       "free speech zone"
+shortstackran.ch                                                # fediblock:          transmisia, racism, ableism, harassment
+silkhe.art                                                      # fediblock:          unspecified
+sinblr.com                                                      # chaos social:       massive amount of untagged nsfw content
+skippers-bin.com                                                # chaos social:       same admin as neckbeard.xyz, same behaviour
+sleepy.cafe                                                     # fediblock:          unspecified
+sneak.berlin                                                    # chaos social:       privacy violation
+social.076.ne.jp                                                # fediblock:          national socialism, racism, transmisia lolicon
+social.ancreport.com                                            # chaos social:       discrimination, racism, "free speech zone"
+social.beepboop.ga                                              # fediblock:          unspecified
+social.fbxl.net                                                 # fediblock:          unspecified
+social.freetalklive.com                                         # fediblock:          ancap, libertarianism
+social.handholding.io                                           # fediblock:          unspecified
+social.lovingexpressions.net                                    # fediblock:          national socialism
+social.quodverum.com                                            # fediblock:          unspecified
+social.redxen.eu                                                # fediblock:          unspecified
+social.teci.world                                               # fediblock:          unspecified
+social.urspringer.de                                            # chaos social:       conspiracy, covid19 denier
+societal.co                                                     # fediblock:          unspecified
+solagg.com                                                      # chaos social:       scammers
+spinster.xyz                                                    # chaos social:       discrimination
+springbo.cc                                                     # fediblock:          unspecified
+strelizia.net                                                   # fediblock:          unspecified
+tastingtraffic.net                                              # chaos social:       homophobia
+tcode.kenfm.de                                                  # fediblock:          unspecified
+thecitadel.social                                               # fediblock:          unspecified
+theres.life                                                     # fediblock:          unspecified
+toot.canberrasocial.net                                         # chaos social:       "free speech zone"
+traboone.com                                                    # fediblock:          unspecified
+truthsocial.co.in                                               # chaos social:       alt-right trolls
+truthsocial.com                                                 # fediblock:          unspecified
+tube.kenfm.de                                                   # chaos social:       conspiracy videos
+tube.querdenken-711.de                                          # chaos social:       conspiracy videos
+twitterbridge.jannis.rocks                                      # chaos social:       twitter crossposting bots breaking mentions
+twtr.plus                                                       # chaos social:       twitter crossposting bots breaking mentions
+uwu.social                                                      # fediblock:          national socialism
+varishangout.net                                                # chaos social:       transphobia, aggressive trolling
+video.nobodyhasthe.biz                                          # fediblock:          unspecified
+videos.martinezperspective.org                                  # fediblock:          unspecified
+wiki-tube.de                                                    # chaos social:       right wing conspiracy videos
+wolfgirl.bar                                                    # fediblock:          unspecified
+www.bigguys.club                                                # fediblock:          unspecified
+yggdrasil.social                                                # chaos social:       discrimination
+youjo.love                                                      # fediblock:          unspecified
+срёт.онлайн                                                     # fediblock:          racism, homomisia, transmisia
